@@ -1,0 +1,1 @@
+Simple executable to give the current araxxor path
